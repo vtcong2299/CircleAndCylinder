@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\bin\Debug\net8.0\CircleAndCylinder.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\bin\Debug\net8.0\CircleAndCylinder.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\bin\Debug\net8.0\CircleAndCylinder.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\bin\Debug\net8.0\CircleAndCylinder.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\bin\Debug\net8.0\CircleAndCylinder.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\obj\Debug\net8.0\CircleAndCylinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\obj\Debug\net8.0\CircleAndCylinder.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\obj\Debug\net8.0\CircleAndCylinder.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\obj\Debug\net8.0\CircleAndCylinder.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\obj\Debug\net8.0\CircleAndCylinder.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\obj\Debug\net8.0\refint\CircleAndCylinder.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\obj\Debug\net8.0\CircleAndCylinder.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\obj\Debug\net8.0\CircleAndCylinder.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\CircleAndCylinder\obj\Debug\net8.0\ref\CircleAndCylinder.dll
